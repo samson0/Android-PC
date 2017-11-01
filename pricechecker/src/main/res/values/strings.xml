@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PriceChecker</string>
+    <string name="service_name">PriceCheckerService</string>
+</resources>
